@@ -1,62 +1,67 @@
 [
+  {
+    "id": 11,
+    "nombreSuperHeroe": "Green Lantern",
+    "nombreReal": "Hal Jordan",
+    "nombreSociedad": "Cuerpo de Linternas Verdes",
+    "edad": 35,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Debilidad contra el color amarillo (miedo)",
+    "poder": ["Creación de objetos de energía", "Vuelo", "Control mental limitado"],
+    "habilidadEspecial": "Anillo de poder",
+    "aliado": ["Flash", "Wonder Woman"],
+    "enemigo": ["Sinestro"]
+  },
+   {
+    "id": 12,
+    "nombreSuperHeroe": "Doctor Strange",
+    "nombreReal": "Stephen Strange",
+    "nombreSociedad": "Vengadores",
+    "edad": 42,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Falta de enfoque",
+    "poder": ["Magia poderosa", "Manipulación del tiempo", "Viaje interdimensional"],
+    "habilidadEspecial": "Ojo de Agamotto",
+    "aliado": ["Wong", "Spider-Man"],
+    "enemigo": ["Dormammu"]
+  },
+   {
+    "id": 13,
+    "nombreSuperHeroe": "Black Panther",
+    "nombreReal": "T'Challa",
+    "nombreSociedad": "Wakanda / Vengadores",
+    "edad": 38,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Presión política",
+    "poder": ["Reflejos mejorados", "Fuerza sobrehumana", "Sentidos agudizados"],
+    "habilidadEspecial": "Traje de Vibranium",
+    "aliado": ["Shuri", "Captain America"],
+    "enemigo": ["Killmonger"]
+  },
+   {
+    "id": 14,
+    "nombreSuperHeroe": "Capitana Marvel",
+    "nombreReal": "Carol Danvers",
+    "nombreSociedad": "Vengadores",
+    "edad": 38,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Control emocional",
+    "poder": ["Vuelo interestelar", "Súper fuerza", "Emisión de energía"],
+    "habilidadEspecial": "Absorción de energía",
+    "aliado": ["Nick Fury", "Spider-Man"],
+    "enemigo": ["Yon-Rogg"]
+  },
     {
-        "id": 8,
-        "nombreSuperheroe": "Batman",
-        "nombreReal": "Bruce Wayne",
-        "nombreSociedad": "Justice League",
-        "planetaOrigen": "Tierra",
-        "debilidad": "Ninguna",
-        "poder": "Inteligencia",
-        "habilidadEspecial": "Experto en artes marciales",
-        "aliado": "Robin",
-        "enemigo": "Joker"
-    },
-    {
-        "id": 9,
-        "nombreSuperheroe": "Luz de Luna",
-        "nombreReal": "Melina MataReyes",
-        "nombreSociedad": "Guardianes de la Luz",
-        "planetaOrigen": "Marte",
-        "debilidad": "Sombras",
-        "poder": "Manipulación de la luz",
-        "habilidadEspecial": "Curación",
-        "aliado": "SuperVilma",
-        "enemigo": "El Oscuro"
-    },
-    {
-        "id": 10,
-        "nombreSuperheroe": "Dr. Espiral",
-        "nombreReal": "Evelyn Spiral",
-        "nombreSociedad": "Villanos de la Noche",
-        "planetaOrigen": "Criptonita",
-        "debilidad": "Luz brillante",
-        "poder": "Control del tiempo",
-        "habilidadEspecial": "Teletransportación",
-        "aliado": "El Caos",
-        "enemigo": "SuperVilma"
-    },
-    {
-        "id": 11,
-        "nombreSuperheroe": "El Hechicero",
-        "nombreReal": "Salvador Ríos",
-        "nombreSociedad": "Villanos de la Noche",
-        "planetaOrigen": "Tierra",
-        "debilidad": "Espejos",
-        "poder": "Magia negra",
-        "habilidadEspecial": "Ilusionismo",
-        "aliado": "Dr. Espiral",
-        "enemigo": "Luz de Luna"
-    },
-    {
-        "id": 12,
-        "nombreSuperheroe": "El Destructor",
-        "nombreReal": "Raúl Pérez",
-        "nombreSociedad": "Villanos de la Noche",
-        "planetaOrigen": "Tierra",
-        "debilidad": "Compasión",
-        "poder": "Fuerza descomunal",
-        "habilidadEspecial": "Destrucción masiva",
-        "aliado": "La Sombra",
-        "enemigo": "El Guardián"
-    }
-]
+    "id": 15,
+    "nombreSuperHeroe": "Daredevil",
+    "nombreReal": "Matt Murdock",
+    "nombreSociedad": "Defensores",
+    "edad": 33,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Ceguera",
+    "poder": ["Sentidos aumentados", "Maestría en artes marciales", "Ecolocación"],
+    "habilidadEspecial": "Bastón multiusos",
+    "aliado": ["Luke Cage", "Jessica Jones"],
+    "enemigo": ["Kingpin"]
+  }
+  ]
